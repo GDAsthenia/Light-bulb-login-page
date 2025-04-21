@@ -1,2 +1,5 @@
+Site:
 apparently-full-sawfish.ngrok-free.app
+
+Run this when want to open server:
 ./ngrok http 3000 --url https://apparently-full-sawfish.ngrok-free.app
