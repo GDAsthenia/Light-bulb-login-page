@@ -1,0 +1,19 @@
+{
+    "name": "loginform",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "express.js": "^1.0.0",
+        "knex": "^0.95.6",
+        "knx": "^2.5.4",
+        "nodemon": "^2.0.22",
+        "pg": "^8.14.1"
+    },
+    "description": ""
+}
